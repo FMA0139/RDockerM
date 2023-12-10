@@ -1,0 +1,89 @@
+DEBUG - 2021-04-12 09:18:07 --> File loaded: C:\RDMMadrasah\htdocs\application\modules/login/models/M_model.php
+DEBUG - 2021-04-12 09:18:07 --> File loaded: C:\RDMMadrasah\htdocs\application\modules/proktor/views/sidebar.php
+DEBUG - 2021-04-12 09:18:07 --> File loaded: C:\RDMMadrasah\htdocs\application\modules/proktor/views/header.php
+DEBUG - 2021-04-12 09:18:07 --> File loaded: C:\RDMMadrasah\htdocs\application\modules/proktor/views/footer.php
+DEBUG - 2021-04-12 09:18:07 --> File loaded: C:\RDMMadrasah\htdocs\application\modules/proktor/views/main_page.php
+DEBUG - 2021-04-12 09:18:07 --> Total execution time: 0.2978
+DEBUG - 2021-04-12 09:18:10 --> Total execution time: 0.7253
+DEBUG - 2021-04-12 09:18:10 --> Total execution time: 0.3257
+DEBUG - 2021-04-12 09:18:10 --> Total execution time: 0.3129
+DEBUG - 2021-04-12 09:18:11 --> Total execution time: 0.2818
+DEBUG - 2021-04-12 09:18:11 --> Total execution time: 0.2680
+DEBUG - 2021-04-12 09:18:11 --> Total execution time: 0.2232
+DEBUG - 2021-04-12 09:18:11 --> Total execution time: 0.2104
+DEBUG - 2021-04-12 09:18:12 --> File loaded: C:\RDMMadrasah\htdocs\application\modules/proktor/views/default.php
+DEBUG - 2021-04-12 09:18:12 --> Total execution time: 0.2536
+DEBUG - 2021-04-12 09:18:12 --> Total execution time: 0.4937
+DEBUG - 2021-04-12 09:18:12 --> Total execution time: 0.2815
+DEBUG - 2021-04-12 09:18:44 --> Total execution time: 0.9147
+DEBUG - 2021-04-12 09:19:03 --> File loaded: C:\RDMMadrasah\htdocs\application\modules/proktor/views/sidebar.php
+DEBUG - 2021-04-12 09:19:03 --> File loaded: C:\RDMMadrasah\htdocs\application\modules/proktor/views/header.php
+DEBUG - 2021-04-12 09:19:03 --> File loaded: C:\RDMMadrasah\htdocs\application\modules/proktor/views/footer.php
+DEBUG - 2021-04-12 09:19:03 --> File loaded: C:\RDMMadrasah\htdocs\application\modules/proktor/views/main_page.php
+DEBUG - 2021-04-12 09:19:03 --> Total execution time: 0.3426
+DEBUG - 2021-04-12 09:19:05 --> Total execution time: 0.3148
+DEBUG - 2021-04-12 09:19:06 --> Total execution time: 0.2595
+DEBUG - 2021-04-12 09:19:06 --> Total execution time: 0.3628
+DEBUG - 2021-04-12 09:19:06 --> Total execution time: 0.2618
+DEBUG - 2021-04-12 09:19:07 --> Total execution time: 0.4087
+DEBUG - 2021-04-12 09:19:07 --> Total execution time: 0.3619
+DEBUG - 2021-04-12 09:19:07 --> Total execution time: 0.2508
+DEBUG - 2021-04-12 09:19:08 --> File loaded: C:\RDMMadrasah\htdocs\application\modules/proktor/views/default.php
+DEBUG - 2021-04-12 09:19:08 --> Total execution time: 0.5230
+DEBUG - 2021-04-12 09:19:08 --> Total execution time: 0.2860
+DEBUG - 2021-04-12 09:19:09 --> Total execution time: 0.2493
+DEBUG - 2021-04-12 09:28:14 --> File loaded: C:\RDMMadrasah\htdocs\application\modules/login/models/M_model.php
+DEBUG - 2021-04-12 09:28:14 --> File loaded: C:\RDMMadrasah\htdocs\application\modules/login/views/register_form.php
+DEBUG - 2021-04-12 09:28:14 --> File loaded: C:\RDMMadrasah\htdocs\application\modules/login/views/login_page.php
+DEBUG - 2021-04-12 09:28:14 --> Total execution time: 0.1797
+DEBUG - 2021-04-12 09:28:15 --> File loaded: C:\RDMMadrasah\htdocs\application\modules/login/models/M_model.php
+DEBUG - 2021-04-12 09:28:15 --> File loaded: C:\RDMMadrasah\htdocs\application\modules/login/views/register_form.php
+DEBUG - 2021-04-12 09:28:15 --> File loaded: C:\RDMMadrasah\htdocs\application\modules/login/views/login_page.php
+DEBUG - 2021-04-12 09:28:15 --> Total execution time: 0.4989
+DEBUG - 2021-04-12 11:44:55 --> UTF-8 Support Enabled
+DEBUG - 2021-04-12 11:44:55 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2021-04-12 21:44:56 --> File loaded: C:\RDMMadrasah\htdocs\application\modules/proktor/views/sidebar.php
+DEBUG - 2021-04-12 21:44:56 --> File loaded: C:\RDMMadrasah\htdocs\application\modules/proktor/views/header.php
+DEBUG - 2021-04-12 21:44:56 --> File loaded: C:\RDMMadrasah\htdocs\application\modules/proktor/views/footer.php
+DEBUG - 2021-04-12 21:44:56 --> File loaded: C:\RDMMadrasah\htdocs\application\modules/proktor/views/main_page.php
+DEBUG - 2021-04-12 21:44:56 --> Total execution time: 0.8439
+DEBUG - 2021-04-12 11:44:58 --> UTF-8 Support Enabled
+DEBUG - 2021-04-12 11:44:58 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2021-04-12 21:44:58 --> Total execution time: 0.3802
+DEBUG - 2021-04-12 11:44:58 --> UTF-8 Support Enabled
+DEBUG - 2021-04-12 11:44:58 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2021-04-12 21:44:59 --> Total execution time: 0.3405
+DEBUG - 2021-04-12 11:44:59 --> UTF-8 Support Enabled
+DEBUG - 2021-04-12 11:44:59 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2021-04-12 21:44:59 --> Total execution time: 0.3881
+DEBUG - 2021-04-12 11:44:59 --> UTF-8 Support Enabled
+DEBUG - 2021-04-12 11:44:59 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2021-04-12 21:44:59 --> Total execution time: 0.2631
+DEBUG - 2021-04-12 11:44:59 --> UTF-8 Support Enabled
+DEBUG - 2021-04-12 11:44:59 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2021-04-12 21:45:00 --> Total execution time: 0.2396
+DEBUG - 2021-04-12 11:45:00 --> UTF-8 Support Enabled
+DEBUG - 2021-04-12 11:45:00 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2021-04-12 21:45:00 --> Total execution time: 0.4573
+DEBUG - 2021-04-12 11:45:00 --> UTF-8 Support Enabled
+DEBUG - 2021-04-12 11:45:00 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2021-04-12 21:45:01 --> Total execution time: 0.4506
+DEBUG - 2021-04-12 11:45:01 --> UTF-8 Support Enabled
+DEBUG - 2021-04-12 11:45:01 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2021-04-12 21:45:01 --> File loaded: C:\RDMMadrasah\htdocs\application\modules/proktor/views/default.php
+DEBUG - 2021-04-12 21:45:01 --> Total execution time: 0.4275
+DEBUG - 2021-04-12 11:45:01 --> UTF-8 Support Enabled
+DEBUG - 2021-04-12 11:45:01 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2021-04-12 21:45:02 --> Total execution time: 1.2372
+DEBUG - 2021-04-12 11:45:02 --> UTF-8 Support Enabled
+DEBUG - 2021-04-12 11:45:02 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2021-04-12 21:45:03 --> Total execution time: 0.5104
+DEBUG - 2021-04-12 11:45:09 --> UTF-8 Support Enabled
+DEBUG - 2021-04-12 11:45:09 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2021-04-12 21:45:10 --> File loaded: C:\RDMMadrasah\htdocs\application\modules/login/models/M_model.php
+DEBUG - 2021-04-12 11:45:10 --> UTF-8 Support Enabled
+DEBUG - 2021-04-12 11:45:10 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2021-04-12 21:45:10 --> File loaded: C:\RDMMadrasah\htdocs\application\modules/login/models/M_model.php
+DEBUG - 2021-04-12 21:45:10 --> File loaded: C:\RDMMadrasah\htdocs\application\modules/login/views/register_form.php
+DEBUG - 2021-04-12 21:45:10 --> File loaded: C:\RDMMadrasah\htdocs\application\modules/login/views/login_page.php
+DEBUG - 2021-04-12 21:45:10 --> Total execution time: 0.3055
