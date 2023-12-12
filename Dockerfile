@@ -24,10 +24,19 @@ RUN apt-get update && apt-get install -y libcurl4-openssl-dev \
 # Install MySQL extension for PHP
 RUN docker-php-ext-install mysqli pdo pdo_mysql
 
-# Enable mod_rewrite
-RUN a2enmod rewrite
+# Enable mod_rewrite and SSL
+RUN a2enmod rewrite \
+    && a2enmod ssl
 
-# Expose port 80 to the outside world
+# Generate a self-signed SSL certificate
+RUN openssl req -x509 -nodes -days 365 -newkey rsa:2048 -keyout /etc/ssl/private/apache-selfsigned.key -out /etc/ssl/certs/apache-selfsigned.crt -subj "/C=US/ST=State/L=City/O=Organization/CN=localhost"
+
+# Configure Apache to use the SSL certificate
+COPY apache-config/ssl.conf /etc/apache2/sites-available/default-ssl.conf
+RUN a2ensite default-ssl
+
+# Expose port 443 for HTTPS
+EXPOSE 443
 EXPOSE 80
 
 # Define the command to run your application
