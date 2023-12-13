@@ -7,6 +7,10 @@ WORKDIR /var/www/html
 # Copy the current directory contents into the container at /var/www/html
 COPY . /var/www/html
 
+# Fix permissions and ownership
+RUN chown -R www-data:www-data /var/www/html && \
+    chmod -R 755 /var/www/html
+
 # Install IonCube Loader for PHP 7.2
 RUN curl -o ioncube.tar.gz http://downloads3.ioncube.com/loader_downloads/ioncube_loaders_lin_x86-64.tar.gz \
     && tar -xzf ioncube.tar.gz \
