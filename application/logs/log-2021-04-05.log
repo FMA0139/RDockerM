@@ -1,0 +1,557 @@
+DEBUG - 2021-04-05 06:26:57 --> File loaded: C:\RDMMadrasah\htdocs\application\modules/login/models/M_model.php
+DEBUG - 2021-04-05 06:26:57 --> File loaded: C:\RDMMadrasah\htdocs\application\modules/login/views/register_form.php
+DEBUG - 2021-04-05 06:26:57 --> File loaded: C:\RDMMadrasah\htdocs\application\modules/login/views/login_page.php
+DEBUG - 2021-04-05 06:26:57 --> Total execution time: 0.5620
+DEBUG - 2021-04-05 10:40:15 --> UTF-8 Support Enabled
+DEBUG - 2021-04-05 10:40:15 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2021-04-05 10:40:17 --> UTF-8 Support Enabled
+DEBUG - 2021-04-05 10:40:17 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2021-04-05 20:40:19 --> File loaded: C:\RDMMadrasah\htdocs\application\modules/login/models/M_model.php
+DEBUG - 2021-04-05 20:40:20 --> File loaded: C:\RDMMadrasah\htdocs\application\modules/login/views/register_form.php
+DEBUG - 2021-04-05 20:40:20 --> File loaded: C:\RDMMadrasah\htdocs\application\modules/login/views/login_page.php
+DEBUG - 2021-04-05 20:40:20 --> Total execution time: 2.8689
+DEBUG - 2021-04-05 10:40:30 --> UTF-8 Support Enabled
+DEBUG - 2021-04-05 10:40:30 --> Global POST, GET and COOKIE data sanitized
+ERROR - 2021-04-05 10:40:30 --> 404 Page Not Found: /index
+DEBUG - 2021-04-05 10:40:44 --> UTF-8 Support Enabled
+DEBUG - 2021-04-05 10:40:45 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2021-04-05 20:40:45 --> File loaded: C:\RDMMadrasah\htdocs\application\modules/login/models/M_model.php
+DEBUG - 2021-04-05 20:40:47 --> Total execution time: 2.3062
+DEBUG - 2021-04-05 10:40:48 --> UTF-8 Support Enabled
+DEBUG - 2021-04-05 10:40:49 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2021-04-05 20:40:51 --> File loaded: C:\RDMMadrasah\htdocs\application\modules/login/models/M_model.php
+DEBUG - 2021-04-05 20:40:51 --> File loaded: C:\RDMMadrasah\htdocs\application\modules/login/views/login_form.php
+DEBUG - 2021-04-05 20:40:51 --> File loaded: C:\RDMMadrasah\htdocs\application\modules/login/views/login_page.php
+DEBUG - 2021-04-05 20:40:51 --> Total execution time: 3.2778
+DEBUG - 2021-04-05 10:40:53 --> UTF-8 Support Enabled
+DEBUG - 2021-04-05 10:40:53 --> Global POST, GET and COOKIE data sanitized
+ERROR - 2021-04-05 10:40:53 --> 404 Page Not Found: /index
+DEBUG - 2021-04-05 10:41:00 --> UTF-8 Support Enabled
+DEBUG - 2021-04-05 10:41:00 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2021-04-05 20:41:01 --> File loaded: C:\RDMMadrasah\htdocs\application\modules/login/models/M_model.php
+DEBUG - 2021-04-05 20:41:01 --> Total execution time: 1.2504
+DEBUG - 2021-04-05 10:41:02 --> UTF-8 Support Enabled
+DEBUG - 2021-04-05 10:41:03 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2021-04-05 20:41:04 --> File loaded: C:\RDMMadrasah\htdocs\application\modules/login/models/M_model.php
+DEBUG - 2021-04-05 10:41:04 --> UTF-8 Support Enabled
+DEBUG - 2021-04-05 10:41:04 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2021-04-05 20:41:04 --> File loaded: C:\RDMMadrasah\htdocs\application\modules/proktor/views/sidebar.php
+DEBUG - 2021-04-05 20:41:04 --> File loaded: C:\RDMMadrasah\htdocs\application\modules/proktor/views/header.php
+DEBUG - 2021-04-05 20:41:05 --> File loaded: C:\RDMMadrasah\htdocs\application\modules/proktor/views/footer.php
+DEBUG - 2021-04-05 20:41:05 --> File loaded: C:\RDMMadrasah\htdocs\application\modules/proktor/views/main_page.php
+DEBUG - 2021-04-05 20:41:05 --> Total execution time: 0.5824
+DEBUG - 2021-04-05 10:41:07 --> UTF-8 Support Enabled
+DEBUG - 2021-04-05 10:41:08 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2021-04-05 20:41:09 --> Total execution time: 1.4346
+DEBUG - 2021-04-05 10:41:09 --> UTF-8 Support Enabled
+DEBUG - 2021-04-05 10:41:09 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2021-04-05 20:41:11 --> Total execution time: 2.1096
+DEBUG - 2021-04-05 10:41:11 --> UTF-8 Support Enabled
+DEBUG - 2021-04-05 10:41:12 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2021-04-05 20:41:14 --> Total execution time: 2.5862
+DEBUG - 2021-04-05 10:41:14 --> UTF-8 Support Enabled
+DEBUG - 2021-04-05 10:41:14 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2021-04-05 20:41:17 --> Total execution time: 2.8877
+DEBUG - 2021-04-05 10:41:17 --> UTF-8 Support Enabled
+DEBUG - 2021-04-05 10:41:17 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2021-04-05 20:41:19 --> Total execution time: 2.3427
+DEBUG - 2021-04-05 10:41:19 --> UTF-8 Support Enabled
+DEBUG - 2021-04-05 10:41:19 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2021-04-05 20:41:21 --> Total execution time: 1.5349
+DEBUG - 2021-04-05 10:41:21 --> UTF-8 Support Enabled
+DEBUG - 2021-04-05 10:41:22 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2021-04-05 20:41:22 --> Total execution time: 1.5506
+DEBUG - 2021-04-05 10:41:23 --> UTF-8 Support Enabled
+DEBUG - 2021-04-05 10:41:23 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2021-04-05 20:41:24 --> File loaded: C:\RDMMadrasah\htdocs\application\modules/proktor/views/default.php
+DEBUG - 2021-04-05 20:41:24 --> Total execution time: 1.9780
+DEBUG - 2021-04-05 10:41:24 --> UTF-8 Support Enabled
+DEBUG - 2021-04-05 10:41:25 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2021-04-05 20:41:25 --> Total execution time: 0.6767
+DEBUG - 2021-04-05 10:41:25 --> UTF-8 Support Enabled
+DEBUG - 2021-04-05 10:41:26 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2021-04-05 20:41:29 --> Total execution time: 3.5905
+DEBUG - 2021-04-05 10:41:29 --> UTF-8 Support Enabled
+DEBUG - 2021-04-05 10:41:29 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2021-04-05 20:41:31 --> File loaded: C:\RDMMadrasah\htdocs\application\modules/proktor/views/backuprestore.php
+DEBUG - 2021-04-05 20:41:31 --> Total execution time: 2.3831
+DEBUG - 2021-04-05 10:41:32 --> UTF-8 Support Enabled
+DEBUG - 2021-04-05 10:41:32 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2021-04-05 20:41:34 --> Total execution time: 2.1609
+DEBUG - 2021-04-05 10:41:47 --> UTF-8 Support Enabled
+DEBUG - 2021-04-05 10:41:47 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2021-04-05 20:41:52 --> Total execution time: 4.5840
+DEBUG - 2021-04-05 10:41:52 --> UTF-8 Support Enabled
+DEBUG - 2021-04-05 10:41:53 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2021-04-05 20:41:53 --> Total execution time: 1.3187
+DEBUG - 2021-04-05 10:41:54 --> UTF-8 Support Enabled
+DEBUG - 2021-04-05 10:41:54 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2021-04-05 20:41:55 --> Total execution time: 0.5931
+DEBUG - 2021-04-05 10:41:56 --> UTF-8 Support Enabled
+DEBUG - 2021-04-05 10:41:56 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2021-04-05 20:41:57 --> Total execution time: 0.6606
+DEBUG - 2021-04-05 10:41:58 --> UTF-8 Support Enabled
+DEBUG - 2021-04-05 10:41:59 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2021-04-05 20:42:00 --> Total execution time: 1.6548
+DEBUG - 2021-04-05 10:42:01 --> UTF-8 Support Enabled
+DEBUG - 2021-04-05 10:42:01 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2021-04-05 20:42:03 --> Total execution time: 1.8977
+DEBUG - 2021-04-05 10:42:05 --> UTF-8 Support Enabled
+DEBUG - 2021-04-05 10:42:05 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2021-04-05 20:42:07 --> Total execution time: 1.7946
+DEBUG - 2021-04-05 10:42:08 --> UTF-8 Support Enabled
+DEBUG - 2021-04-05 10:42:08 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2021-04-05 20:42:15 --> Total execution time: 6.9357
+DEBUG - 2021-04-05 10:42:16 --> UTF-8 Support Enabled
+DEBUG - 2021-04-05 10:42:16 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2021-04-05 20:42:17 --> Total execution time: 0.9978
+DEBUG - 2021-04-05 10:42:18 --> UTF-8 Support Enabled
+DEBUG - 2021-04-05 10:42:18 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2021-04-05 20:42:24 --> Total execution time: 5.7730
+DEBUG - 2021-04-05 10:42:24 --> UTF-8 Support Enabled
+DEBUG - 2021-04-05 10:42:24 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2021-04-05 20:42:28 --> Total execution time: 3.7164
+DEBUG - 2021-04-05 10:42:28 --> UTF-8 Support Enabled
+DEBUG - 2021-04-05 10:42:28 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2021-04-05 20:42:29 --> Total execution time: 1.3152
+DEBUG - 2021-04-05 10:42:31 --> UTF-8 Support Enabled
+DEBUG - 2021-04-05 10:42:31 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2021-04-05 20:42:32 --> Total execution time: 1.8130
+DEBUG - 2021-04-05 10:42:34 --> UTF-8 Support Enabled
+DEBUG - 2021-04-05 10:42:34 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2021-04-05 20:42:35 --> Total execution time: 1.5787
+DEBUG - 2021-04-05 10:42:37 --> UTF-8 Support Enabled
+DEBUG - 2021-04-05 10:42:37 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2021-04-05 20:42:38 --> Total execution time: 1.0594
+DEBUG - 2021-04-05 10:42:39 --> UTF-8 Support Enabled
+DEBUG - 2021-04-05 10:42:39 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2021-04-05 20:42:43 --> Total execution time: 4.2012
+DEBUG - 2021-04-05 10:42:45 --> UTF-8 Support Enabled
+DEBUG - 2021-04-05 10:42:45 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2021-04-05 20:42:46 --> Total execution time: 1.2325
+DEBUG - 2021-04-05 10:42:47 --> UTF-8 Support Enabled
+DEBUG - 2021-04-05 10:42:47 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2021-04-05 20:42:49 --> Total execution time: 2.1374
+DEBUG - 2021-04-05 10:42:51 --> UTF-8 Support Enabled
+DEBUG - 2021-04-05 10:42:52 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2021-04-05 20:42:53 --> Total execution time: 2.7207
+DEBUG - 2021-04-05 10:42:55 --> UTF-8 Support Enabled
+DEBUG - 2021-04-05 10:42:55 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2021-04-05 20:42:56 --> Total execution time: 1.6394
+DEBUG - 2021-04-05 10:42:58 --> UTF-8 Support Enabled
+DEBUG - 2021-04-05 10:42:58 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2021-04-05 20:42:59 --> Total execution time: 1.0940
+DEBUG - 2021-04-05 10:43:00 --> UTF-8 Support Enabled
+DEBUG - 2021-04-05 10:43:00 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2021-04-05 20:43:02 --> Total execution time: 1.8791
+DEBUG - 2021-04-05 10:43:03 --> UTF-8 Support Enabled
+DEBUG - 2021-04-05 10:43:03 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2021-04-05 20:43:05 --> Total execution time: 1.5354
+DEBUG - 2021-04-05 10:43:06 --> UTF-8 Support Enabled
+DEBUG - 2021-04-05 10:43:07 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2021-04-05 20:43:08 --> Total execution time: 1.8120
+DEBUG - 2021-04-05 10:43:09 --> UTF-8 Support Enabled
+DEBUG - 2021-04-05 10:43:10 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2021-04-05 20:43:11 --> Total execution time: 1.4320
+DEBUG - 2021-04-05 10:43:12 --> UTF-8 Support Enabled
+DEBUG - 2021-04-05 10:43:12 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2021-04-05 20:43:13 --> Total execution time: 1.0859
+DEBUG - 2021-04-05 10:43:14 --> UTF-8 Support Enabled
+DEBUG - 2021-04-05 10:43:14 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2021-04-05 20:43:15 --> Total execution time: 1.0884
+DEBUG - 2021-04-05 10:43:16 --> UTF-8 Support Enabled
+DEBUG - 2021-04-05 10:43:16 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2021-04-05 20:43:17 --> Total execution time: 0.9916
+DEBUG - 2021-04-05 10:43:18 --> UTF-8 Support Enabled
+DEBUG - 2021-04-05 10:43:19 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2021-04-05 20:43:19 --> Total execution time: 1.0283
+DEBUG - 2021-04-05 10:43:21 --> UTF-8 Support Enabled
+DEBUG - 2021-04-05 10:43:21 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2021-04-05 20:43:22 --> Total execution time: 1.3991
+DEBUG - 2021-04-05 10:43:23 --> UTF-8 Support Enabled
+DEBUG - 2021-04-05 10:43:23 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2021-04-05 20:43:24 --> Total execution time: 1.0494
+DEBUG - 2021-04-05 10:43:25 --> UTF-8 Support Enabled
+DEBUG - 2021-04-05 10:43:25 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2021-04-05 20:43:26 --> Total execution time: 0.9385
+DEBUG - 2021-04-05 10:43:27 --> UTF-8 Support Enabled
+DEBUG - 2021-04-05 10:43:28 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2021-04-05 20:43:29 --> Total execution time: 1.3644
+DEBUG - 2021-04-05 10:43:32 --> UTF-8 Support Enabled
+DEBUG - 2021-04-05 10:43:32 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2021-04-05 20:43:37 --> Total execution time: 5.1907
+DEBUG - 2021-04-05 10:43:37 --> UTF-8 Support Enabled
+DEBUG - 2021-04-05 10:43:37 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2021-04-05 20:43:39 --> Total execution time: 2.0240
+DEBUG - 2021-04-05 10:43:39 --> UTF-8 Support Enabled
+DEBUG - 2021-04-05 10:43:39 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2021-04-05 20:43:40 --> Total execution time: 1.2334
+DEBUG - 2021-04-05 10:43:40 --> UTF-8 Support Enabled
+DEBUG - 2021-04-05 10:43:41 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2021-04-05 20:43:42 --> Total execution time: 1.7028
+DEBUG - 2021-04-05 10:43:42 --> UTF-8 Support Enabled
+DEBUG - 2021-04-05 10:43:42 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2021-04-05 20:43:44 --> Total execution time: 1.5062
+DEBUG - 2021-04-05 10:43:44 --> UTF-8 Support Enabled
+DEBUG - 2021-04-05 10:43:44 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2021-04-05 20:43:45 --> Total execution time: 1.2824
+DEBUG - 2021-04-05 10:43:45 --> UTF-8 Support Enabled
+DEBUG - 2021-04-05 10:43:45 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2021-04-05 20:43:47 --> File loaded: C:\RDMMadrasah\htdocs\application\modules/proktor/views/sidebar.php
+DEBUG - 2021-04-05 20:43:47 --> File loaded: C:\RDMMadrasah\htdocs\application\modules/proktor/views/header.php
+DEBUG - 2021-04-05 20:43:47 --> File loaded: C:\RDMMadrasah\htdocs\application\modules/proktor/views/footer.php
+DEBUG - 2021-04-05 20:43:47 --> File loaded: C:\RDMMadrasah\htdocs\application\modules/proktor/views/main_page.php
+DEBUG - 2021-04-05 20:43:47 --> Total execution time: 1.9978
+DEBUG - 2021-04-05 10:43:47 --> UTF-8 Support Enabled
+DEBUG - 2021-04-05 10:43:47 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2021-04-05 20:43:50 --> Total execution time: 3.0755
+DEBUG - 2021-04-05 10:43:50 --> UTF-8 Support Enabled
+DEBUG - 2021-04-05 10:43:51 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2021-04-05 20:43:52 --> Total execution time: 1.6323
+DEBUG - 2021-04-05 10:43:55 --> UTF-8 Support Enabled
+DEBUG - 2021-04-05 10:43:56 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2021-04-05 20:43:58 --> Total execution time: 2.9222
+DEBUG - 2021-04-05 10:43:59 --> UTF-8 Support Enabled
+DEBUG - 2021-04-05 10:43:59 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2021-04-05 20:44:00 --> Total execution time: 1.9018
+DEBUG - 2021-04-05 10:44:00 --> UTF-8 Support Enabled
+DEBUG - 2021-04-05 10:44:01 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2021-04-05 20:44:06 --> Total execution time: 5.9046
+DEBUG - 2021-04-05 10:44:06 --> UTF-8 Support Enabled
+DEBUG - 2021-04-05 10:44:06 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2021-04-05 20:44:08 --> Total execution time: 2.2224
+DEBUG - 2021-04-05 10:44:09 --> UTF-8 Support Enabled
+DEBUG - 2021-04-05 10:44:09 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2021-04-05 20:44:10 --> Total execution time: 1.9606
+DEBUG - 2021-04-05 10:44:11 --> UTF-8 Support Enabled
+DEBUG - 2021-04-05 10:44:11 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2021-04-05 20:44:12 --> Total execution time: 1.3073
+DEBUG - 2021-04-05 10:44:12 --> UTF-8 Support Enabled
+DEBUG - 2021-04-05 10:44:12 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2021-04-05 20:44:15 --> Total execution time: 2.9519
+DEBUG - 2021-04-05 10:44:15 --> UTF-8 Support Enabled
+DEBUG - 2021-04-05 10:44:15 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2021-04-05 20:44:17 --> File loaded: C:\RDMMadrasah\htdocs\application\modules/proktor/views/default.php
+DEBUG - 2021-04-05 20:44:17 --> Total execution time: 2.3468
+DEBUG - 2021-04-05 10:44:18 --> UTF-8 Support Enabled
+DEBUG - 2021-04-05 10:44:18 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2021-04-05 20:44:19 --> Total execution time: 2.0353
+DEBUG - 2021-04-05 10:44:20 --> UTF-8 Support Enabled
+DEBUG - 2021-04-05 10:44:20 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2021-04-05 20:44:23 --> Total execution time: 3.3370
+DEBUG - 2021-04-05 10:44:31 --> UTF-8 Support Enabled
+DEBUG - 2021-04-05 10:44:31 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2021-04-05 20:44:32 --> File loaded: C:\RDMMadrasah\htdocs\application\modules/proktor/views/guru.php
+DEBUG - 2021-04-05 20:44:32 --> Total execution time: 0.7726
+DEBUG - 2021-04-05 10:45:03 --> UTF-8 Support Enabled
+DEBUG - 2021-04-05 10:45:03 --> No URI present. Default controller set.
+DEBUG - 2021-04-05 10:45:03 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2021-04-05 20:45:04 --> File loaded: C:\RDMMadrasah\htdocs\application\modules/login/models/M_model.php
+DEBUG - 2021-04-05 20:45:04 --> File loaded: C:\RDMMadrasah\htdocs\application\modules/login/views/login_form.php
+DEBUG - 2021-04-05 20:45:04 --> File loaded: C:\RDMMadrasah\htdocs\application\modules/login/views/login_page.php
+DEBUG - 2021-04-05 20:45:04 --> Total execution time: 0.7461
+DEBUG - 2021-04-05 10:45:08 --> UTF-8 Support Enabled
+DEBUG - 2021-04-05 10:45:08 --> No URI present. Default controller set.
+DEBUG - 2021-04-05 10:45:08 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2021-04-05 20:45:08 --> File loaded: C:\RDMMadrasah\htdocs\application\modules/login/models/M_model.php
+DEBUG - 2021-04-05 20:45:09 --> File loaded: C:\RDMMadrasah\htdocs\application\modules/login/views/login_form.php
+DEBUG - 2021-04-05 20:45:09 --> File loaded: C:\RDMMadrasah\htdocs\application\modules/login/views/login_page.php
+DEBUG - 2021-04-05 20:45:09 --> Total execution time: 1.3226
+DEBUG - 2021-04-05 10:45:15 --> UTF-8 Support Enabled
+DEBUG - 2021-04-05 10:45:15 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2021-04-05 20:45:16 --> File loaded: C:\RDMMadrasah\htdocs\application\modules/login/models/M_model.php
+DEBUG - 2021-04-05 20:45:16 --> Total execution time: 0.9716
+DEBUG - 2021-04-05 10:45:17 --> UTF-8 Support Enabled
+DEBUG - 2021-04-05 10:45:17 --> No URI present. Default controller set.
+DEBUG - 2021-04-05 10:45:17 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2021-04-05 20:45:19 --> File loaded: C:\RDMMadrasah\htdocs\application\modules/login/models/M_model.php
+DEBUG - 2021-04-05 10:45:19 --> UTF-8 Support Enabled
+DEBUG - 2021-04-05 10:45:19 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2021-04-05 20:45:19 --> File loaded: C:\RDMMadrasah\htdocs\application\modules/guru/views/partial/sidebar.php
+DEBUG - 2021-04-05 20:45:19 --> File loaded: C:\RDMMadrasah\htdocs\application\modules/guru/views/main_page.php
+DEBUG - 2021-04-05 20:45:19 --> Total execution time: 0.4533
+DEBUG - 2021-04-05 10:45:21 --> UTF-8 Support Enabled
+DEBUG - 2021-04-05 10:45:21 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2021-04-05 20:45:22 --> Total execution time: 1.0131
+DEBUG - 2021-04-05 10:45:22 --> UTF-8 Support Enabled
+DEBUG - 2021-04-05 10:45:23 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2021-04-05 20:45:25 --> Total execution time: 2.5892
+DEBUG - 2021-04-05 10:45:25 --> UTF-8 Support Enabled
+DEBUG - 2021-04-05 10:45:25 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2021-04-05 20:45:25 --> File loaded: C:\RDMMadrasah\htdocs\application\modules/guru/views/partial/header.php
+DEBUG - 2021-04-05 20:45:25 --> Total execution time: 0.7013
+DEBUG - 2021-04-05 10:45:26 --> UTF-8 Support Enabled
+DEBUG - 2021-04-05 10:45:26 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2021-04-05 20:45:28 --> File loaded: C:\RDMMadrasah\htdocs\application\modules/guru/views/default.php
+DEBUG - 2021-04-05 20:45:28 --> Total execution time: 2.4322
+DEBUG - 2021-04-05 10:45:28 --> UTF-8 Support Enabled
+DEBUG - 2021-04-05 10:45:29 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2021-04-05 20:45:31 --> Total execution time: 2.6456
+DEBUG - 2021-04-05 10:45:35 --> UTF-8 Support Enabled
+DEBUG - 2021-04-05 10:45:35 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2021-04-05 20:45:36 --> File loaded: C:\RDMMadrasah\htdocs\application\modules/guru/views/walas.php
+DEBUG - 2021-04-05 20:45:36 --> Total execution time: 0.8461
+DEBUG - 2021-04-05 10:45:36 --> UTF-8 Support Enabled
+DEBUG - 2021-04-05 10:45:36 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2021-04-05 20:45:37 --> File loaded: C:\RDMMadrasah\htdocs\application\modules/guru/views/walas/sikapsos.php
+DEBUG - 2021-04-05 20:45:37 --> Total execution time: 1.7480
+DEBUG - 2021-04-05 10:45:38 --> UTF-8 Support Enabled
+DEBUG - 2021-04-05 10:45:38 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2021-04-05 20:45:39 --> Total execution time: 1.0620
+DEBUG - 2021-04-05 10:45:39 --> UTF-8 Support Enabled
+DEBUG - 2021-04-05 10:45:39 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2021-04-05 20:45:41 --> File loaded: C:\RDMMadrasah\htdocs\application\modules/guru/views/partial/walas.php
+DEBUG - 2021-04-05 20:45:41 --> Total execution time: 1.9536
+DEBUG - 2021-04-05 10:45:41 --> UTF-8 Support Enabled
+DEBUG - 2021-04-05 10:45:41 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2021-04-05 20:45:42 --> Total execution time: 0.8070
+DEBUG - 2021-04-05 10:45:42 --> UTF-8 Support Enabled
+DEBUG - 2021-04-05 10:45:42 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2021-04-05 20:45:44 --> Total execution time: 1.7229
+DEBUG - 2021-04-05 10:45:57 --> UTF-8 Support Enabled
+DEBUG - 2021-04-05 10:45:57 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2021-04-05 20:45:58 --> Total execution time: 0.7259
+DEBUG - 2021-04-05 10:45:59 --> UTF-8 Support Enabled
+DEBUG - 2021-04-05 10:45:59 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2021-04-05 20:46:01 --> Total execution time: 1.4903
+DEBUG - 2021-04-05 10:46:30 --> UTF-8 Support Enabled
+DEBUG - 2021-04-05 10:46:30 --> No URI present. Default controller set.
+DEBUG - 2021-04-05 10:46:30 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2021-04-05 20:46:30 --> File loaded: C:\RDMMadrasah\htdocs\application\modules/login/models/M_model.php
+DEBUG - 2021-04-05 10:46:36 --> UTF-8 Support Enabled
+DEBUG - 2021-04-05 10:46:37 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2021-04-05 20:46:38 --> Total execution time: 1.5122
+DEBUG - 2021-04-05 10:46:38 --> UTF-8 Support Enabled
+DEBUG - 2021-04-05 10:46:38 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2021-04-05 20:46:39 --> Total execution time: 1.3153
+DEBUG - 2021-04-05 10:46:39 --> UTF-8 Support Enabled
+DEBUG - 2021-04-05 10:46:39 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2021-04-05 20:46:41 --> Total execution time: 1.5840
+DEBUG - 2021-04-05 10:52:42 --> UTF-8 Support Enabled
+DEBUG - 2021-04-05 10:52:42 --> Global POST, GET and COOKIE data sanitized
+ERROR - 2021-04-05 20:52:42 --> Query error: Duplicate entry '2020-2-0-2020200000000000001-10-Kejujuran' for key 'tahunajaran_id' - Invalid query: INSERT INTO `e_komponennilai` (`komponennilai_id`, `jenisnilai_id`, `mapel_id`, `kelas_id`, `tahunajaran_id`, `semester_id`, `guru_id`, `komponennilai_nama`, `komponennilai_materi`) VALUES (2020200000000000085, '10', '0', '2020200000000000001', '2020', '2', '4039198000015', 'Kejujuran', 'Kejujuran')
+DEBUG - 2021-04-05 20:52:42 --> Total execution time: 0.5269
+DEBUG - 2021-04-05 10:54:01 --> UTF-8 Support Enabled
+DEBUG - 2021-04-05 10:54:01 --> Global POST, GET and COOKIE data sanitized
+ERROR - 2021-04-05 20:54:03 --> Query error: Duplicate entry '2020-2-0-2020200000000000001-10-Kejujuran' for key 'tahunajaran_id' - Invalid query: INSERT INTO `e_komponennilai` (`komponennilai_id`, `jenisnilai_id`, `mapel_id`, `kelas_id`, `tahunajaran_id`, `semester_id`, `guru_id`, `komponennilai_nama`, `komponennilai_materi`) VALUES (2020200000000000085, '10', '0', '2020200000000000001', '2020', '2', '4039198000015', 'Kejujuran', 'Kejujuran')
+ERROR - 2021-04-05 20:54:03 --> Severity: error --> Exception: Call to undefined method CI_DB_mysqli_driver::error_message() C:\RDMMadrasah\htdocs\application\modules\guru\controllers\Sikap.php 383
+DEBUG - 2021-04-05 10:54:48 --> UTF-8 Support Enabled
+DEBUG - 2021-04-05 10:54:48 --> Global POST, GET and COOKIE data sanitized
+ERROR - 2021-04-05 20:54:48 --> Query error: Duplicate entry '2020-2-0-2020200000000000001-10-Kejujuran' for key 'tahunajaran_id' - Invalid query: INSERT INTO `e_komponennilai` (`komponennilai_id`, `jenisnilai_id`, `mapel_id`, `kelas_id`, `tahunajaran_id`, `semester_id`, `guru_id`, `komponennilai_nama`, `komponennilai_materi`) VALUES (2020200000000000085, '10', '0', '2020200000000000001', '2020', '2', '4039198000015', 'Kejujuran', 'Kejujuran')
+DEBUG - 2021-04-05 20:54:48 --> Total execution time: 0.5879
+DEBUG - 2021-04-05 10:55:57 --> UTF-8 Support Enabled
+DEBUG - 2021-04-05 10:55:57 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2021-04-05 20:55:57 --> File loaded: C:\RDMMadrasah\htdocs\application\modules/guru/views/partial/sidebar.php
+DEBUG - 2021-04-05 20:55:57 --> File loaded: C:\RDMMadrasah\htdocs\application\modules/guru/views/main_page.php
+DEBUG - 2021-04-05 20:55:57 --> Total execution time: 0.5093
+DEBUG - 2021-04-05 10:56:03 --> UTF-8 Support Enabled
+DEBUG - 2021-04-05 10:56:03 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2021-04-05 20:56:05 --> Total execution time: 1.4458
+DEBUG - 2021-04-05 10:56:05 --> UTF-8 Support Enabled
+DEBUG - 2021-04-05 10:56:05 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2021-04-05 20:56:06 --> Total execution time: 1.4657
+DEBUG - 2021-04-05 10:56:08 --> UTF-8 Support Enabled
+DEBUG - 2021-04-05 10:56:08 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2021-04-05 20:56:09 --> Total execution time: 1.4100
+DEBUG - 2021-04-05 10:56:11 --> UTF-8 Support Enabled
+DEBUG - 2021-04-05 10:56:11 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2021-04-05 20:56:12 --> Total execution time: 1.5586
+DEBUG - 2021-04-05 10:56:12 --> UTF-8 Support Enabled
+DEBUG - 2021-04-05 10:56:13 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2021-04-05 20:56:14 --> Total execution time: 1.5183
+DEBUG - 2021-04-05 10:56:22 --> UTF-8 Support Enabled
+DEBUG - 2021-04-05 10:56:22 --> Global POST, GET and COOKIE data sanitized
+ERROR - 2021-04-05 20:56:23 --> Query error: Duplicate entry '2020-2-0-2020200000000000001-10-Kejujuran' for key 'tahunajaran_id' - Invalid query: INSERT INTO `e_komponennilai` (`komponennilai_id`, `jenisnilai_id`, `mapel_id`, `kelas_id`, `tahunajaran_id`, `semester_id`, `guru_id`, `komponennilai_nama`, `komponennilai_materi`) VALUES (2020200000000000084, '10', '0', '2020200000000000001', '2020', '2', '4039198000015', 'Kejujuran', 'Kejujuran')
+DEBUG - 2021-04-05 20:56:23 --> Total execution time: 0.5039
+DEBUG - 2021-04-05 10:59:40 --> UTF-8 Support Enabled
+DEBUG - 2021-04-05 10:59:40 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2021-04-05 20:59:41 --> File loaded: C:\RDMMadrasah\htdocs\application\modules/guru/views/partial/sidebar.php
+DEBUG - 2021-04-05 20:59:41 --> File loaded: C:\RDMMadrasah\htdocs\application\modules/guru/views/main_page.php
+DEBUG - 2021-04-05 20:59:41 --> Total execution time: 0.5977
+DEBUG - 2021-04-05 10:59:46 --> UTF-8 Support Enabled
+DEBUG - 2021-04-05 10:59:46 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2021-04-05 20:59:47 --> Total execution time: 0.9045
+DEBUG - 2021-04-05 10:59:47 --> UTF-8 Support Enabled
+DEBUG - 2021-04-05 10:59:47 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2021-04-05 20:59:49 --> Total execution time: 2.6034
+DEBUG - 2021-04-05 10:59:50 --> UTF-8 Support Enabled
+DEBUG - 2021-04-05 10:59:50 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2021-04-05 20:59:51 --> Total execution time: 0.6144
+DEBUG - 2021-04-05 10:59:53 --> UTF-8 Support Enabled
+DEBUG - 2021-04-05 10:59:53 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2021-04-05 20:59:54 --> Total execution time: 1.3316
+DEBUG - 2021-04-05 10:59:54 --> UTF-8 Support Enabled
+DEBUG - 2021-04-05 10:59:54 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2021-04-05 20:59:56 --> Total execution time: 1.9049
+DEBUG - 2021-04-05 11:04:25 --> UTF-8 Support Enabled
+DEBUG - 2021-04-05 11:04:25 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2021-04-05 21:04:25 --> File loaded: C:\RDMMadrasah\htdocs\application\modules/guru/views/partial/sidebar.php
+DEBUG - 2021-04-05 21:04:25 --> File loaded: C:\RDMMadrasah\htdocs\application\modules/guru/views/main_page.php
+DEBUG - 2021-04-05 21:04:25 --> Total execution time: 0.6527
+DEBUG - 2021-04-05 11:04:31 --> UTF-8 Support Enabled
+DEBUG - 2021-04-05 11:04:31 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2021-04-05 21:04:33 --> Total execution time: 1.6745
+DEBUG - 2021-04-05 11:04:33 --> UTF-8 Support Enabled
+DEBUG - 2021-04-05 11:04:33 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2021-04-05 21:04:34 --> Total execution time: 1.2666
+DEBUG - 2021-04-05 11:04:35 --> UTF-8 Support Enabled
+DEBUG - 2021-04-05 11:04:35 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2021-04-05 21:04:36 --> Total execution time: 1.5123
+DEBUG - 2021-04-05 11:04:38 --> UTF-8 Support Enabled
+DEBUG - 2021-04-05 11:04:38 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2021-04-05 21:04:40 --> Total execution time: 2.6523
+DEBUG - 2021-04-05 11:04:40 --> UTF-8 Support Enabled
+DEBUG - 2021-04-05 11:04:41 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2021-04-05 21:04:42 --> Total execution time: 1.9403
+DEBUG - 2021-04-05 11:04:54 --> UTF-8 Support Enabled
+DEBUG - 2021-04-05 11:04:54 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2021-04-05 21:04:55 --> File loaded: C:\RDMMadrasah\htdocs\application\modules/guru/views/walas/sikapspiritual.php
+DEBUG - 2021-04-05 21:04:55 --> Total execution time: 0.6655
+DEBUG - 2021-04-05 11:06:02 --> UTF-8 Support Enabled
+DEBUG - 2021-04-05 11:06:02 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2021-04-05 21:06:02 --> File loaded: C:\RDMMadrasah\htdocs\application\modules/guru/views/partial/sidebar.php
+DEBUG - 2021-04-05 21:06:02 --> File loaded: C:\RDMMadrasah\htdocs\application\modules/guru/views/main_page.php
+DEBUG - 2021-04-05 21:06:02 --> Total execution time: 0.6916
+DEBUG - 2021-04-05 11:06:08 --> UTF-8 Support Enabled
+DEBUG - 2021-04-05 11:06:08 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2021-04-05 21:06:09 --> Total execution time: 1.2449
+DEBUG - 2021-04-05 11:06:09 --> UTF-8 Support Enabled
+DEBUG - 2021-04-05 11:06:09 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2021-04-05 21:06:10 --> Total execution time: 1.0406
+DEBUG - 2021-04-05 11:06:10 --> UTF-8 Support Enabled
+DEBUG - 2021-04-05 11:06:10 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2021-04-05 21:06:11 --> File loaded: C:\RDMMadrasah\htdocs\application\modules/guru/views/partial/header.php
+DEBUG - 2021-04-05 21:06:11 --> Total execution time: 0.7875
+DEBUG - 2021-04-05 11:06:11 --> UTF-8 Support Enabled
+DEBUG - 2021-04-05 11:06:12 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2021-04-05 21:06:14 --> Total execution time: 2.2613
+DEBUG - 2021-04-05 11:06:15 --> UTF-8 Support Enabled
+DEBUG - 2021-04-05 11:06:15 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2021-04-05 21:06:17 --> Total execution time: 1.7188
+DEBUG - 2021-04-05 11:06:17 --> UTF-8 Support Enabled
+DEBUG - 2021-04-05 11:06:17 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2021-04-05 21:06:19 --> Total execution time: 2.6391
+DEBUG - 2021-04-05 11:07:24 --> UTF-8 Support Enabled
+DEBUG - 2021-04-05 11:07:24 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2021-04-05 21:07:24 --> Total execution time: 0.4865
+DEBUG - 2021-04-05 11:07:25 --> UTF-8 Support Enabled
+DEBUG - 2021-04-05 11:07:26 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2021-04-05 21:07:27 --> Total execution time: 1.8418
+DEBUG - 2021-04-05 11:08:22 --> UTF-8 Support Enabled
+DEBUG - 2021-04-05 11:08:22 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2021-04-05 11:09:01 --> UTF-8 Support Enabled
+DEBUG - 2021-04-05 11:09:02 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2021-04-05 21:09:06 --> Total execution time: 4.8604
+DEBUG - 2021-04-05 11:09:07 --> UTF-8 Support Enabled
+DEBUG - 2021-04-05 11:09:07 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2021-04-05 21:09:07 --> Total execution time: 1.0397
+DEBUG - 2021-04-05 11:16:31 --> UTF-8 Support Enabled
+DEBUG - 2021-04-05 11:16:31 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2021-04-05 21:16:32 --> Total execution time: 0.8693
+DEBUG - 2021-04-05 11:16:33 --> UTF-8 Support Enabled
+DEBUG - 2021-04-05 11:16:33 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2021-04-05 21:16:35 --> Total execution time: 1.8136
+DEBUG - 2021-04-05 12:21:12 --> UTF-8 Support Enabled
+DEBUG - 2021-04-05 12:21:12 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2021-04-05 12:21:18 --> UTF-8 Support Enabled
+DEBUG - 2021-04-05 12:21:19 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2021-04-05 22:21:24 --> File loaded: C:\RDMMadrasah\htdocs\application\modules/login/models/M_model.php
+DEBUG - 2021-04-05 22:21:24 --> File loaded: C:\RDMMadrasah\htdocs\application\modules/login/views/login_form.php
+DEBUG - 2021-04-05 22:21:24 --> File loaded: C:\RDMMadrasah\htdocs\application\modules/login/views/login_page.php
+DEBUG - 2021-04-05 22:21:25 --> Total execution time: 6.5009
+DEBUG - 2021-04-05 12:21:25 --> UTF-8 Support Enabled
+DEBUG - 2021-04-05 12:21:26 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2021-04-05 12:21:49 --> UTF-8 Support Enabled
+DEBUG - 2021-04-05 12:21:53 --> UTF-8 Support Enabled
+DEBUG - 2021-04-05 12:21:54 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2021-04-05 12:21:54 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2021-04-05 22:21:57 --> File loaded: C:\RDMMadrasah\htdocs\application\modules/guru/views/walas/sikapsos.php
+DEBUG - 2021-04-05 22:21:57 --> Total execution time: 4.3603
+DEBUG - 2021-04-05 22:21:57 --> File loaded: C:\RDMMadrasah\htdocs\application\modules/login/models/M_model.php
+DEBUG - 2021-04-05 22:21:59 --> File loaded: C:\RDMMadrasah\htdocs\application\modules/login/views/login_form.php
+DEBUG - 2021-04-05 22:21:59 --> File loaded: C:\RDMMadrasah\htdocs\application\modules/login/views/login_page.php
+DEBUG - 2021-04-05 22:21:59 --> Total execution time: 11.1528
+DEBUG - 2021-04-05 12:22:21 --> UTF-8 Support Enabled
+DEBUG - 2021-04-05 12:22:21 --> Global POST, GET and COOKIE data sanitized
+ERROR - 2021-04-05 12:22:22 --> 404 Page Not Found: /index
+DEBUG - 2021-04-05 12:22:34 --> UTF-8 Support Enabled
+DEBUG - 2021-04-05 12:22:34 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2021-04-05 22:22:35 --> File loaded: C:\RDMMadrasah\htdocs\application\modules/login/models/M_model.php
+DEBUG - 2021-04-05 22:22:35 --> Total execution time: 1.4257
+DEBUG - 2021-04-05 12:22:37 --> UTF-8 Support Enabled
+DEBUG - 2021-04-05 12:22:38 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2021-04-05 22:22:39 --> File loaded: C:\RDMMadrasah\htdocs\application\modules/login/models/M_model.php
+DEBUG - 2021-04-05 12:22:39 --> UTF-8 Support Enabled
+DEBUG - 2021-04-05 12:22:39 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2021-04-05 22:22:42 --> File loaded: C:\RDMMadrasah\htdocs\application\modules/proktor/views/sidebar.php
+DEBUG - 2021-04-05 22:22:42 --> File loaded: C:\RDMMadrasah\htdocs\application\modules/proktor/views/header.php
+DEBUG - 2021-04-05 22:22:42 --> File loaded: C:\RDMMadrasah\htdocs\application\modules/proktor/views/footer.php
+DEBUG - 2021-04-05 22:22:42 --> File loaded: C:\RDMMadrasah\htdocs\application\modules/proktor/views/main_page.php
+DEBUG - 2021-04-05 22:22:42 --> Total execution time: 3.1892
+DEBUG - 2021-04-05 12:22:47 --> UTF-8 Support Enabled
+DEBUG - 2021-04-05 12:22:48 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2021-04-05 22:22:50 --> File loaded: C:\RDMMadrasah\htdocs\application\modules/guru/views/walas/siswa.php
+DEBUG - 2021-04-05 22:22:50 --> Total execution time: 2.9246
+DEBUG - 2021-04-05 12:22:53 --> UTF-8 Support Enabled
+DEBUG - 2021-04-05 12:22:54 --> Global POST, GET and COOKIE data sanitized
+ERROR - 2021-04-05 12:22:54 --> 404 Page Not Found: /index
+DEBUG - 2021-04-05 12:22:55 --> UTF-8 Support Enabled
+DEBUG - 2021-04-05 12:22:55 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2021-04-05 22:22:57 --> Total execution time: 2.1527
+DEBUG - 2021-04-05 12:22:57 --> UTF-8 Support Enabled
+DEBUG - 2021-04-05 12:22:57 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2021-04-05 22:22:58 --> Total execution time: 1.2594
+DEBUG - 2021-04-05 12:22:58 --> UTF-8 Support Enabled
+DEBUG - 2021-04-05 12:22:59 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2021-04-05 12:23:00 --> UTF-8 Support Enabled
+DEBUG - 2021-04-05 12:23:01 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2021-04-05 22:23:03 --> Total execution time: 3.2590
+DEBUG - 2021-04-05 12:23:04 --> UTF-8 Support Enabled
+DEBUG - 2021-04-05 12:23:05 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2021-04-05 22:23:07 --> Total execution time: 2.4627
+DEBUG - 2021-04-05 22:23:14 --> Total execution time: 16.0818
+DEBUG - 2021-04-05 12:23:14 --> UTF-8 Support Enabled
+DEBUG - 2021-04-05 12:23:14 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2021-04-05 12:23:16 --> UTF-8 Support Enabled
+DEBUG - 2021-04-05 12:23:16 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2021-04-05 22:23:16 --> Total execution time: 2.1997
+DEBUG - 2021-04-05 12:23:17 --> UTF-8 Support Enabled
+DEBUG - 2021-04-05 12:23:17 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2021-04-05 22:23:17 --> Total execution time: 1.7848
+DEBUG - 2021-04-05 22:23:18 --> Total execution time: 1.7518
+DEBUG - 2021-04-05 12:23:19 --> UTF-8 Support Enabled
+DEBUG - 2021-04-05 12:23:19 --> UTF-8 Support Enabled
+DEBUG - 2021-04-05 12:23:19 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2021-04-05 12:23:19 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2021-04-05 22:23:21 --> Total execution time: 2.1554
+DEBUG - 2021-04-05 22:23:21 --> Total execution time: 2.7387
+DEBUG - 2021-04-05 12:23:21 --> UTF-8 Support Enabled
+DEBUG - 2021-04-05 12:23:21 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2021-04-05 22:23:22 --> Total execution time: 1.3971
+DEBUG - 2021-04-05 12:23:23 --> UTF-8 Support Enabled
+DEBUG - 2021-04-05 12:23:23 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2021-04-05 22:23:23 --> File loaded: C:\RDMMadrasah\htdocs\application\modules/proktor/views/guru.php
+DEBUG - 2021-04-05 22:23:23 --> Total execution time: 0.9275
+DEBUG - 2021-04-05 12:23:24 --> UTF-8 Support Enabled
+DEBUG - 2021-04-05 12:23:24 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2021-04-05 22:23:25 --> Total execution time: 1.1724
+DEBUG - 2021-04-05 12:23:26 --> UTF-8 Support Enabled
+DEBUG - 2021-04-05 12:23:27 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2021-04-05 22:23:29 --> Total execution time: 2.3234
+DEBUG - 2021-04-05 12:23:30 --> UTF-8 Support Enabled
+DEBUG - 2021-04-05 12:23:30 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2021-04-05 22:23:35 --> Total execution time: 5.4541
+DEBUG - 2021-04-05 12:28:09 --> UTF-8 Support Enabled
+DEBUG - 2021-04-05 12:28:09 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2021-04-05 22:28:11 --> Total execution time: 2.1287
+DEBUG - 2021-04-05 12:28:13 --> UTF-8 Support Enabled
+DEBUG - 2021-04-05 12:28:13 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2021-04-05 22:28:15 --> Total execution time: 2.3567
+DEBUG - 2021-04-05 23:11:54 --> UTF-8 Support Enabled
+DEBUG - 2021-04-05 23:11:54 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2021-04-05 23:11:55 --> UTF-8 Support Enabled
+DEBUG - 2021-04-05 23:11:55 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2021-04-05 23:12:11 --> UTF-8 Support Enabled
+DEBUG - 2021-04-05 23:12:11 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2021-04-05 23:12:13 --> UTF-8 Support Enabled
+DEBUG - 2021-04-05 23:12:13 --> Global POST, GET and COOKIE data sanitized

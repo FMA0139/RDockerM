@@ -1,0 +1,102 @@
+DEBUG - 2021-04-11 08:46:04 --> UTF-8 Support Enabled
+DEBUG - 2021-04-11 08:46:04 --> No URI present. Default controller set.
+DEBUG - 2021-04-11 08:46:04 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2021-04-11 18:46:05 --> File loaded: C:\RDMMadrasah\htdocs\application\modules/login/models/M_model.php
+DEBUG - 2021-04-11 08:46:05 --> UTF-8 Support Enabled
+DEBUG - 2021-04-11 08:46:06 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2021-04-11 18:46:06 --> File loaded: C:\RDMMadrasah\htdocs\application\modules/proktor/views/sidebar.php
+DEBUG - 2021-04-11 18:46:06 --> File loaded: C:\RDMMadrasah\htdocs\application\modules/proktor/views/header.php
+DEBUG - 2021-04-11 18:46:06 --> File loaded: C:\RDMMadrasah\htdocs\application\modules/proktor/views/footer.php
+DEBUG - 2021-04-11 18:46:06 --> File loaded: C:\RDMMadrasah\htdocs\application\modules/proktor/views/main_page.php
+DEBUG - 2021-04-11 18:46:06 --> Total execution time: 1.0062
+DEBUG - 2021-04-11 08:46:09 --> UTF-8 Support Enabled
+DEBUG - 2021-04-11 08:46:09 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2021-04-11 18:46:10 --> Total execution time: 0.9675
+DEBUG - 2021-04-11 08:46:10 --> UTF-8 Support Enabled
+DEBUG - 2021-04-11 08:46:10 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2021-04-11 18:46:10 --> Total execution time: 0.3962
+DEBUG - 2021-04-11 08:46:10 --> UTF-8 Support Enabled
+DEBUG - 2021-04-11 08:46:10 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2021-04-11 18:46:11 --> Total execution time: 0.4931
+DEBUG - 2021-04-11 08:46:11 --> UTF-8 Support Enabled
+DEBUG - 2021-04-11 08:46:11 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2021-04-11 18:46:11 --> Total execution time: 0.4254
+DEBUG - 2021-04-11 08:46:11 --> UTF-8 Support Enabled
+DEBUG - 2021-04-11 08:46:11 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2021-04-11 18:46:12 --> Total execution time: 0.5895
+DEBUG - 2021-04-11 08:46:12 --> UTF-8 Support Enabled
+DEBUG - 2021-04-11 08:46:12 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2021-04-11 18:46:12 --> Total execution time: 0.4825
+DEBUG - 2021-04-11 08:46:12 --> UTF-8 Support Enabled
+DEBUG - 2021-04-11 08:46:12 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2021-04-11 18:46:13 --> Total execution time: 0.4213
+DEBUG - 2021-04-11 08:46:13 --> UTF-8 Support Enabled
+DEBUG - 2021-04-11 08:46:13 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2021-04-11 18:46:13 --> File loaded: C:\RDMMadrasah\htdocs\application\modules/proktor/views/default.php
+DEBUG - 2021-04-11 18:46:13 --> Total execution time: 0.4001
+DEBUG - 2021-04-11 08:46:13 --> UTF-8 Support Enabled
+DEBUG - 2021-04-11 08:46:14 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2021-04-11 18:46:14 --> Total execution time: 0.6952
+DEBUG - 2021-04-11 08:46:14 --> UTF-8 Support Enabled
+DEBUG - 2021-04-11 08:46:14 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2021-04-11 18:46:15 --> Total execution time: 0.9122
+DEBUG - 2021-04-11 08:46:46 --> UTF-8 Support Enabled
+DEBUG - 2021-04-11 08:46:46 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2021-04-11 18:46:46 --> Total execution time: 0.7374
+DEBUG - 2021-04-11 23:18:06 --> UTF-8 Support Enabled
+DEBUG - 2021-04-11 23:18:07 --> No URI present. Default controller set.
+DEBUG - 2021-04-11 23:18:07 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2021-04-11 23:18:07 --> UTF-8 Support Enabled
+DEBUG - 2021-04-11 23:18:07 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2021-04-11 23:18:09 --> UTF-8 Support Enabled
+DEBUG - 2021-04-11 23:18:09 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2021-04-11 23:18:10 --> UTF-8 Support Enabled
+DEBUG - 2021-04-11 23:18:10 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2021-04-11 23:18:10 --> UTF-8 Support Enabled
+DEBUG - 2021-04-11 23:18:10 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2021-04-11 23:18:10 --> UTF-8 Support Enabled
+DEBUG - 2021-04-11 23:18:10 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2021-04-11 23:18:11 --> UTF-8 Support Enabled
+DEBUG - 2021-04-11 23:18:11 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2021-04-11 23:18:11 --> UTF-8 Support Enabled
+DEBUG - 2021-04-11 23:18:11 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2021-04-11 23:18:11 --> UTF-8 Support Enabled
+DEBUG - 2021-04-11 23:18:11 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2021-04-11 23:18:11 --> UTF-8 Support Enabled
+DEBUG - 2021-04-11 23:18:11 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2021-04-11 23:18:12 --> UTF-8 Support Enabled
+DEBUG - 2021-04-11 23:18:12 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2021-04-11 23:18:12 --> UTF-8 Support Enabled
+DEBUG - 2021-04-11 23:18:12 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2021-04-11 23:18:43 --> UTF-8 Support Enabled
+DEBUG - 2021-04-11 23:18:43 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2021-04-11 23:19:03 --> UTF-8 Support Enabled
+DEBUG - 2021-04-11 23:19:03 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2021-04-11 23:19:05 --> UTF-8 Support Enabled
+DEBUG - 2021-04-11 23:19:05 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2021-04-11 23:19:05 --> UTF-8 Support Enabled
+DEBUG - 2021-04-11 23:19:05 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2021-04-11 23:19:06 --> UTF-8 Support Enabled
+DEBUG - 2021-04-11 23:19:06 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2021-04-11 23:19:06 --> UTF-8 Support Enabled
+DEBUG - 2021-04-11 23:19:06 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2021-04-11 23:19:06 --> UTF-8 Support Enabled
+DEBUG - 2021-04-11 23:19:06 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2021-04-11 23:19:07 --> UTF-8 Support Enabled
+DEBUG - 2021-04-11 23:19:07 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2021-04-11 23:19:07 --> UTF-8 Support Enabled
+DEBUG - 2021-04-11 23:19:07 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2021-04-11 23:19:07 --> UTF-8 Support Enabled
+DEBUG - 2021-04-11 23:19:08 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2021-04-11 23:19:08 --> UTF-8 Support Enabled
+DEBUG - 2021-04-11 23:19:08 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2021-04-11 23:19:08 --> UTF-8 Support Enabled
+DEBUG - 2021-04-11 23:19:08 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2021-04-11 23:28:13 --> UTF-8 Support Enabled
+DEBUG - 2021-04-11 23:28:13 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2021-04-11 23:28:14 --> UTF-8 Support Enabled
+DEBUG - 2021-04-11 23:28:14 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2021-04-11 23:28:14 --> UTF-8 Support Enabled
+DEBUG - 2021-04-11 23:28:14 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2021-04-11 23:28:14 --> UTF-8 Support Enabled
+DEBUG - 2021-04-11 23:28:15 --> Global POST, GET and COOKIE data sanitized

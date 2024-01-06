@@ -1,0 +1,48 @@
+# Use an official PHP runtime as a parent image
+FROM php:7.2-apache
+
+# Enable the mod_rewrite module
+RUN a2enmod rewrite
+
+# Install the GD, gettext, mbstring, mysqli, pdo_mysql, and YAZ extensions
+RUN apt-get update && apt-get install -y \
+    libfreetype6-dev \
+    libjpeg62-turbo-dev \
+    libpng-dev \
+    gettext \
+    libonig-dev \
+    libyaz-dev \
+    && docker-php-ext-configure gd --with-freetype --with-jpeg \
+    && docker-php-ext-install -j$(nproc) gd \
+    && docker-php-ext-install gettext \
+    && docker-php-ext-install mbstring \
+    && docker-php-ext-install mysqli \
+    && docker-php-ext-install pdo_mysql \
+    && pecl install yaz \
+    && docker-php-ext-enable yaz
+
+# Install ionCube Loader for PHP 7.2
+RUN curl -o ioncube.tar.gz http://downloads3.ioncube.com/loader_downloads/ioncube_loaders_lin_x86-64.tar.gz \
+    && tar -zxvf ioncube.tar.gz \
+    && mv ioncube/ioncube_loader_lin_7.2.so /usr/local/lib/php/extensions/no-debug-non-zts-20170718/ioncube_loader_lin_7.2.so \
+    && echo "zend_extension=/usr/local/lib/php/extensions/no-debug-non-zts-20170718/ioncube_loader_lin_7.2.so" > /usr/local/etc/php/conf.d/ioncube.ini \
+    && rm -rf ioncube ioncube.tar.gz
+
+# Set the working directory in the container
+WORKDIR /var/www/html
+
+# Copy the current directory contents into the container at /var/www/html
+COPY ./app /var/www/html
+
+# Define volumes for persistent data
+VOLUME /var/www/html/
+
+# Make directories writable and change ownership
+RUN chown -R www-data:www-data /var/www/html \
+    && chmod -R 777 /var/www/html
+
+# Make port 80 available to the world outside this container
+EXPOSE 80
+
+# Run app.py when the container launches
+CMD ["apache2-foreground"]

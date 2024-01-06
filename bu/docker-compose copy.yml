@@ -1,0 +1,51 @@
+version: "3.8"
+services:
+  rdm-db:
+    image: mariadb:10.6.16
+    container_name: rdm-db
+    environment:
+      - MYSQL_ROOT_PASSWORD=
+      - MYSQL_DATABASE=
+      - MYSQL_USER=
+      - MYSQL_PASSWORD=
+    restart: unless-stopped # run as a service
+    volumes:
+      - ./mariadb-data:/var/lib/mysql
+    networks:
+      -
+
+  rdm-app:
+    image: fma0139/rdockerm:latest
+    # user: root
+    container_name: rdm-app
+    depends_on:
+      - rdm-db
+    environment:
+      - MYSQL_HOST=
+      - MYSQL_DATABASE=
+      - MYSQL_USER=
+      - MYSQL_PASSWORD=
+    volumes:
+      - ./web-data:/var/www/html
+    labels:
+      - traefik.enable=true
+      - traefik.docker.network=
+      - traefik.http.routers.rdm.entrypoints=websecure # domain
+      #----------------------------------------------- routers for domain ----------------------------------------
+      - traefik.http.routers.rdm.rule=Host(`domain.com`) # domain
+      # - traefik.http.routers.rdm.service=rdm
+      # - traefik.http.routers.rdm.middlewares=sslheader
+      # - traefik.http.routers.rdm.tls.certresolver=letsencrypt
+      #====================================================== services ============================================================
+      # - traefik.http.services.rdm.loadbalancer.server.port=80
+      # - traefik.http.services.rdm-ws.loadbalancer.server.port=443
+      #===================================================== middlewares ==========================================================
+      # - traefik.http.middlewares.gzip.compress=true
+      # - traefik.http.middlewares.sslheader.headers.customrequestheaders.X-Forwarded-Proto=https
+      # - traefik.http.middlewares.limit.buffering.memRequestBodyBytes=20971520
+      # - traefik.http.middlewares.limit.buffering.maxRequestBodyBytes=20971520
+    restart: unless-stopped # run as a service
+    networks:
+      -
+
+networks:
